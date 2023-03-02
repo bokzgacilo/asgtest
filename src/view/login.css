@@ -1,0 +1,18 @@
+.login-button {
+  background-color: rgb(0, 84, 180);
+  padding: 1rem 2rem;
+  font-family: Inter-SemiBold;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.login-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 8rem;
+}
+
+.login-container > h2 {
+  margin-bottom: 2rem;
+}
